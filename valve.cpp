@@ -1,4 +1,4 @@
-// FILE: Valve.cpp
+// FILE: valve.cpp (Implementation File)
 // AUTHOR: Bill Golembieski
 // DATE: 5/29/2015
 // CLASS IMPLEMENTED: valve (see valve.h for documentation)
